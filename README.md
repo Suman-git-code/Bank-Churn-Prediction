@@ -93,7 +93,7 @@ A ready-made file, `sample_customers.csv`, is included for trying the batch uplo
 1. **Clone the repository and install the dependencies**
 
    ```
-   git clone https://github.com/YOUR-USERNAME/bank-churn-prediction.git
+   git clone https://github.com/Suman-git-code/bank-churn-prediction.git
    cd bank-churn-prediction
    pip install -r requirements.txt
    ```
